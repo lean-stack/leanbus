@@ -1,5 +1,5 @@
 {
-    "name": "lean/leanbus",
+    "name": "leanstack/leanbus",
     "description": "Lean MessageBus",
     "type": "library",
     "license": "MIT",
