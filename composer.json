@@ -9,5 +9,17 @@
             "email": "mail@lean-stack.de"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "Lean\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Lean\\": "tests/"
+        }
+    },
+    "require": {
+        "php": "^7.0"
+    }
 }
