@@ -1,0 +1,13 @@
+{
+    "name": "lean/leanbus",
+    "description": "Lean MessageBus",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Micha Alt",
+            "email": "mail@lean-stack.de"
+        }
+    ],
+    "require": {}
+}
